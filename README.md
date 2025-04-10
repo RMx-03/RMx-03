@@ -40,7 +40,8 @@
   <tr>
     <td valign="top" align="center">
       <b>📚 Libraries & Frameworks</b><br><br>
-      <img src="https://skillicons.dev/icons?i=tensorflow,keras,numpy,pandas,opencv" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" /><br/>
+      <b>• Keras<br>• NumPy<br>• Pandas<br>• OpenCV</b>
     </td>
     <td valign="top" align="center">
       <b>🌐 Web & UI Development</b><br><br>
