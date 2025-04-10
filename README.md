@@ -8,20 +8,22 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Technology | Specialization: AI & Data Science 
-- 🔭 Currently working as a **Dev Ops Engineer at ZyrixCraft**
+
+- 🎓 B.Tech in Computer Technology | Specialization: AI & Data Science  
+- 🔧 Currently working as a **DevOps Engineer at ZyrixCraft**  
 - 🚀 Projects:
-  - **Emotion Detection using CNN**
-  - **Email Spam Classifier using NLP**
-  - **Air Canvas using OpenCV + Mediapipe**
-- 🌱 Currently learning **ML-Ops**, **Advanced Web Development**, and improving my ML skills
-- 📫 Reach me at: [rohit20032012@gmail.com](mailto:rohit20032012@gmail.com)
+  - Emotion Detection using CNN
+  - Email Spam Classifier using NLP
+  - Air Canvas using OpenCV + Mediapipe  
+- 🌱 Currently learning **ML-Ops**, **Advanced Web Development**, and improving my ML skills  
+- 📫 Reach me at: [rohit20032012@gmail.com](mailto:rohit20032012@gmail.com)  
 
 ---
 
 ### 🚀 Tech Stack
 
 #### 🧠 Languages & Tools
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/></td>
@@ -40,6 +42,7 @@
 </table>
 
 #### 📚 Libraries & Frameworks
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow"/></td>
@@ -58,6 +61,7 @@
 </table>
 
 #### 🎨 Web & UI/UX
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css"/>
@@ -71,15 +75,8 @@
 ### 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMx-03&show_icons=true&theme=tokyonight&hide_border=true" alt="RMx-03's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RMx-03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RMx-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
