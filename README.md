@@ -55,8 +55,12 @@
 ### 📊 GitHub Stats (Live)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMx-03&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <a href="https://github.com/RMx-03">
+    <img width="49%" alt="Rohit’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RMx-03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/RMx-03">
+    <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
