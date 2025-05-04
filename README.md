@@ -1,78 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rohit Mishra</h1>
-<h3 align="center">Aspiring AI | ML-Ops Engineer | Web Developer | Open Source Enthusiast</h3>
+# 💫 About Me:
+👋 Hey there! I'm Rohit Mishra<br>🧠 AI Engineer | 💻 Full-Stack Dev | 📊 Data Analyst | 🚀 Tech Explorer | 🎨 Graphics Artist<br>Welcome to my GitHub! I love building smart systems, solving real-world problems with code, and creating impactful tech that blends AI, data, and design.<br><br>🛠️ What I Do<br><br>🤖 AI/ML: Emotion recognition, classification models, generative agents<br>🌐 Web Dev: Responsive apps, e-commerce platforms, secure real-time systems<br>📈 Data: Analysis, dashboards, and data-driven decision tools<br>🔐 Security: Encrypted chat apps and authentication systems<br>🧠 Research & Hackathons: Active in innovation, prototyping, and pitching new tech ideas<br>👨‍💼 Part of @ZyrixCraft: Web, AI/ML & Design solutions<br><br>💼 Tech Toolbox<br>Python · TensorFlow · Keras · React · Node.js · MongoDB · Flutter · LangChain · LangGraph · Git · Figma · and more...<br><br>🚧 Current Projects<br><br>Deep Research AI Agent using LangChain and Tavily<br>Real-time Air Quality Monitoring App (Flutter)<br>Full-Stack E-Commerce App with cart and checkout<br>Secure Chat App with login & encryption<br>Daily AI mini-projects for upskilling<br><br>🚀 Future Ideas<br><br>🧠 Personal AI Assistant for task & info automation<br>🚦 Smart Traffic Simulation System for urban planning<br>💸 Finance Insights Dashboard for real-time tracking<br>🎨 Generative Art Tool with Stable Diffusion<br>📊 Ad Analytics Hub to compare Google, Meta, and more<br><br>Let’s build something amazing together. 🚀
 
-<table align="center">
-  <tr>
-    <td align="center" width="60%">
-      
-### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Technology | Specialization: AI & Data Science 
-- 🔭 Currently working as a **Dev Ops Engineer at ZyrixCraft**
-- 🚀 Projects:
-  - **Emotion Detection using CNN**
-  - **Email Spam Classifier using NLP**
-  - **Air Canvas using OpenCV + Mediapipe**
-- 🌱 Currently learning **ML-Ops**, **Advanced Web Development**, and improving my ML skills
-- 📫 Reach me at: [rohit20032012@gmail.com](mailto:rohit20032012@gmail.com)
 
-  </td>
-  <td align="center" width="40%">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
-  </td>
-  </tr>
-</table>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitmishra03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit20032012@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RMx-03&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RMx-03&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RMx-03&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <b>🧠 Programming Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,cpp,dart,r,html,css,js" />
-    </td>
-    <td valign="top" align="center">
-      <b>🛠️ Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center">
-      <b>📚 Libraries & Frameworks</b><br><br>
-      <img src="https://skillicons.dev/icons?i=tensorflow" /><br/>
-      <b>• Keras<br>• NumPy<br>• Pandas<br>• OpenCV</b>
-    </td>
-    <td valign="top" align="center">
-      <b>🌐 Web & UI Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,tailwind" />
-    </td>
-  </tr>
-</table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RMx-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RMx-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats (Live)
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@rmx02) 
 
-<div align="center">
-  <a href="https://github.com/RMx-03">
-    <img width="49%" alt="Rohit’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RMx-03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/RMx-03">
-    <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMx-03&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-### ☕ Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohitmishra03/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" /></a>
-  <a href="mailto:rohit20032012@gmail.com"><img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/RMx-03"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
